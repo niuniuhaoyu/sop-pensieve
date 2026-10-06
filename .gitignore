@@ -1,0 +1,24 @@
+# 备份 / 临时
+_备份/
+*.bak
+*~
+*.tmp
+
+# 大文件 / 数据 / 媒体（SOP 库只收文本）
+*.dta
+*.csv
+*.xlsx
+*.xls
+*.pdf
+*.docx
+*.pptx
+*.zip
+*.mov
+*.mp4
+*.png
+*.jpg
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
