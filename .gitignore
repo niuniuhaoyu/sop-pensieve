@@ -22,3 +22,7 @@ _备份/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# 传输包
+*.bundle
+
