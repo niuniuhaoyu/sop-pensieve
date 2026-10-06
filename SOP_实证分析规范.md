@@ -66,4 +66,4 @@
 ## 参考
 
 - 配套：[`SOP_AI辅助编程核验.md`](SOP_AI辅助编程核验.md)、[`SOP_案例复现.md`](SOP_案例复现.md)。
-- 本项目工具：`diddesign/` `equitrends/` `pretest/` `lwdid-py/`。
+- 本项目工具：`diddesign/` `equitrends/` `pretest/`。
